@@ -5,3 +5,5 @@ Jueves
 Viernes
 Sábado
 Domingo
+Aleatorio1
+Aleatorio2
